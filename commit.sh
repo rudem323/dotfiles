@@ -9,7 +9,7 @@ git remote set-url origin git@github.com:rudem323/dotfiles.git
 git add -A 
 
 #Add comment
-git commit -m $1
+git commit -m "$1"
 
 #Push
 git push
