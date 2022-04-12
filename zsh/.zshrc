@@ -86,6 +86,7 @@ alias shared="cd /mnt/hgfs/shared"
 alias host-web="updog -p 80"
 alias src="source ~/.zshrc"
 # export MANPATH="/usr/local/man:$MANPATH"
+export PATH=$PATH:/home/rudem/.local/bin
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
